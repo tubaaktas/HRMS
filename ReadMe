@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
  <img src="https://r.resimlink.com/3tyD.png"></img> 
 
 <h2><font face="tahoma" size="5" color="#361ad6"> Human Resources Management System (HRMS) </font></h2>
@@ -39,3 +48,7 @@
             <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMSbackend/blob/master/src/main/java/kodlamaio/hrms/api/controllers/PositionsController.java'> PositionsController.java </a></li>
         </ul>
 <ul>
+
+    <script src="script.js"></script>
+  </body>
+</html>
