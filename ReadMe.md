@@ -93,7 +93,7 @@
             <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/JobSeekerController.java'> JobSeekerController.java </a></li>
             <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/EmployerController.java'> EmployerController.java </a></li>
             <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/EmployeeController.java'> EmployeeController.java </a></li>
-            <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/DepartmentController.java'> DepartmentController.java </a></li>
-            
+            <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/DepartmentController.java'> DepartmentController.java </a></li>            
         </ul>
+    </ul>
 
