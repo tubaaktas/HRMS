@@ -14,6 +14,7 @@
             <li>Abstract</li>
                 <ul>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/abstracts/PositionService.java">PositionService.java</a></li>
+                    <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/abstracts/JobPostService.java">JobPostService.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/abstracts/JobSeekerService.java">JobSeekerService.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/abstracts/EmployerService.java">EmployerService.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/abstracts/EmployeeService.java">EmployeeService.java</a></li>
@@ -22,6 +23,7 @@
             <li>Concretes</li>
                 <ul>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/concretes/PositionManager.java">PositionManager.java</a></li>
+                    <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/concretes/JobPostManager.java">JobPostManager.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/concretes/JobSeekerManager.java">JobSeekerManager.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/concretes/EmployerManager.java">EmployerManager.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/business/concretes/EmployeeManager.java">EmployeeManager.java</a></li>
@@ -60,6 +62,7 @@
                 <ul>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/dataaccess/abstracts/PositionDao.java">PositionDao.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/dataaccess/abstracts/UserDao.java">UserDao.java</a></li>
+                    <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/dataaccess/abstracts/JobPostDao.java">JobPostDao.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/dataaccess/abstracts/JobSeekerDao.java">JobSeekerDao.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/dataaccess/abstracts/EmployerDao.java">EmployerDao.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/dataaccess/abstracts/EmployeeDao.java">EmployeeDao.java</a></li>
@@ -74,7 +77,9 @@
             </ul>
             <li>Concretes</li>
                 <ul>
+                    <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/entities/concretes/City.java">City.java</a></li>
                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/entities/concretes/Position.java">Position.java</a></li>
+                     <li><a target=”#361ad6” href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/entities/concretes/JobPost.java">JobPost.java</a></li>
                     <li><a target=”#361ad6”
                            href="https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/entities/concretes/JobSeeker.java">JobSeeker.java</a></li>
                       <li><a target=”#361ad6”
@@ -91,6 +96,7 @@
         <ul>
             <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/PositionsController.java'> PositionsController.java </a></li>
             <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/JobSeekerController.java'> JobSeekerController.java </a></li>
+            <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/JobPostsController.java'> JobPostsController.java </a></li>
             <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/EmployerController.java'> EmployerController.java </a></li>
             <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/EmployeeController.java'> EmployeeController.java </a></li>
             <li><a target=”#361ad6” href='https://github.com/tubaaktas/HRMS/blob/master/src/main/java/kodlamaio/hrms/api/controllers/DepartmentController.java'> DepartmentController.java </a></li>            
