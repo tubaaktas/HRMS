@@ -75,4 +75,4 @@ ALTER TABLE public.system_personnel
     REFERENCES public.users (id)
     NOT VALID;
 
-END;
+END; 
